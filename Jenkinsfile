@@ -1,3 +1,3 @@
 @Library('roboshop-shared-library') _
 
-maven(shipping)
+maven("shipping")
